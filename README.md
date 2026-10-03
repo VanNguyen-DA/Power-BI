@@ -193,7 +193,8 @@ Validated with stakeholders:
 - ROAS
 - Budget Usage
 
-images/overview.png
+<img width="2662" height="1799" alt="image" src="https://github.com/user-attachments/assets/d45c648c-669a-4969-9efc-5a2db72213e9" />
+
 
 ---
 
@@ -206,7 +207,8 @@ images/overview.png
 - Membership Analysis
 - Revenue by City
 
-images/customer.png
+<img width="2161" height="1798" alt="image" src="https://github.com/user-attachments/assets/e229f7bd-c8ee-4b80-8984-d8d3dd5bca50" />
+
 
 ---
 
@@ -222,7 +224,8 @@ images/customer.png
 - ROAS
 - Budget Utilization
 
-images/campaign.png
+<img width="2658" height="1793" alt="image" src="https://github.com/user-attachments/assets/b7a15ede-1a21-475e-8523-85268166dd41" />
+
 
 ---
 
@@ -235,7 +238,7 @@ images/campaign.png
 - Product ROAS
 - Cost Efficiency
 
-images/product.png
+<img width="2488" height="1800" alt="image" src="https://github.com/user-attachments/assets/388bbc93-32af-4729-8968-940e6233aa14" />
 
 ---
 
@@ -280,25 +283,3 @@ images/product.png
 
 ✅ Prioritize marketing efforts in high-growth cities
 
----
-
-# 🛠️ Tools & Skills
-
-### Tools
-
-- Power BI
-- Power Query
-- DAX
-- Excel
-
-### Skills Demonstrated
-
-- Marketing Analytics
-- Sales Analytics
-- Business Intelligence
-- Dashboard Design
-- Data Modeling
-- DAX Calculations
-- Customer Segmentation
-- Marketing Performance Analysis
-- Data Storytelling
