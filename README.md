@@ -8,15 +8,13 @@
 
 ## Table of Contents
 
-- background overview
-- #-dataset-description
-- [-business-questions
-- #-design-thinking-process
-- [-data-model
-- #-dashboard-pages
-- [-key-insights
-- #-recommendations
-- #-tools--skills
+- Background Overview
+- Dataset Description
+- Business Questions
+- Design Thinking Process
+- Key Insights & Visualizations
+- Final Conclusions & Recommendations
+- Tools Skills
 
 ---
 
@@ -24,7 +22,16 @@
 
 ## Project Objective
 
-This project analyzes sales and digital marketing performance to help stakeholders monitor revenue, campaign effectiveness, customer behavior, product performance, and advertising efficiency.
+This project analyzes Marketing & Sales performance to help stakeholders monitor revenue, campaign effectiveness, customer behavior, product performance, and advertising efficiency.
+
+## 👤 Who is this project for?
+
+This dashboard is designed for:
+
+- 📢 Marketing Managers to optimize campaign performance and ROAS
+- 🛒 E-commerce Managers to monitor sales and product performance
+- 📈 Sales Managers to track revenue growth and customer insights
+- 🏢 Business Leaders to support data-driven decision-making
 
 ### Business Goals
 
@@ -34,6 +41,15 @@ This project analyzes sales and digital marketing performance to help stakeholde
 - Understand customer behavior
 - Identify high-performing products
 - Improve budget allocation decisions
+
+## 🎯 Project Outcome
+
+### Key Results
+
+- Built an interactive Power BI dashboard to monitor sales, marketing, and customer performance.
+- Identified top-performing campaigns, products, and customer segments.
+- Improved budget allocation through ROAS and advertising efficiency analysis.
+- Enabled faster, data-driven decision-making with automated reporting and KPI tracking.
 
 ---
 
@@ -150,7 +166,7 @@ Validated with stakeholders:
 
 ## Star Schema
 
-images/data_model.png
+<img width="1097" height="467" alt="image" src="https://github.com/user-attachments/assets/53ff311e-ee4f-46b3-bd46-d56be3f985b6" />
 
 ### Fact Tables
 
