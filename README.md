@@ -164,22 +164,20 @@ Validated with stakeholders:
 
 # 🏗️ Data Model
 
-## Star Schema
+## Data Relationships
 
 <img width="1097" height="467" alt="image" src="https://github.com/user-attachments/assets/53ff311e-ee4f-46b3-bd46-d56be3f985b6" />
 
 ### Fact Tables
 
-- Sales Fact
-- Marketing Fact
+- Fact Order
+- Fact Marketing Campaign by SKU Cost
 
 ### Dimension Tables
 
 - Date
-- Product
-- Campaign
-- Customer
-- Geography
+- Product (Danh Sach San Pham)
+- Marketing Campaign Cost
 
 ---
 
