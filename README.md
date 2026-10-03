@@ -167,37 +167,17 @@ New
 
 ## Stage 1: Empathize
 
-<p align="center">
-  images/stage1-5w1h.png
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1788b518-b0ad-4cc3-aead-be35b570411e" />
 
-<p align="center">
-  images/stage1-empathy-map.png
-</p>
-
-<p align="center">
-  images/stage1-stakeholder-journey.png
-</p>
 
 ## Stage 2: Define
 
-<p align="center">
-  images/stage2-pov.png
-</p>
-
-<p align="center">
-  images/stage2-nsm.png
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/57f81eb1-924d-46f5-a83c-a2fda5c271ad" />
 
 ## Stage 3: Ideate
 
-<p align="center">
-  images/stage3-brainstorming.png
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/363b59a6-1430-4ed7-81e6-359ed09f9515" />
 
-<p align="center">
-  images/stage3-structure-idea.png
-</p>
 
 
 ## Design Thinking Process
