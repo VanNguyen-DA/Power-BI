@@ -121,6 +121,7 @@ This dashboard is designed for:
 # 🧠 Design Thinking Process
 
 ## Stage 1: Empathize
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a1c9b9bc-28e4-4c41-9762-f7a70140b983" />
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b012c56b-c37c-4077-b996-d3790ca6338a" />
 
