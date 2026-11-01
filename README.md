@@ -125,11 +125,13 @@ This dashboard is designed for:
 
 ## Stage 2: Define
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a366dbd4-2b08-48c2-acc7-42f15d8a9633" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e82c6cf0-a5b5-4cad-926d-9c1670920f32" />
+
 
 ## Stage 3: Ideate
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/913d7bda-b2f1-4058-8c37-28f72b4b21e8" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bd557973-87a1-416c-8246-bdb7fd77c661" />
+
 
 ---
 
